@@ -9,5 +9,22 @@ Finally, the code matches the comprehensive dataset of all targeted entities wit
 
 Below are some summary statistics of the of the final dataset.
 
+### **Sanctioned Firms across Industries**
+
 ![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/e97003c5-77fa-473d-81b5-1865191d15ca)
+
+### **Sanctioned Firms by Sanctioning Government**
+
+![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/6b3ae6fa-3dd5-4629-b525-b17c524cc488)
+
+### **Total Number of Sanctioned Firms in 2014**
+
+![Untitled-1](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/0e8b243c-f9cf-489b-afc9-ad268e574a32)
+
+
+### **Number of Sanctioned Firms by Type**
+
+![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/5af21550-0de8-43be-8eba-bab0a2d9763d)
+
+
 
