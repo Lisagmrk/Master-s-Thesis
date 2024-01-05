@@ -11,20 +11,21 @@ Below are some summary statistics of the of the final dataset.
 
 ### **Sanctioned Firms across Industries**
 
-![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/e97003c5-77fa-473d-81b5-1865191d15ca)
+![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/06a129af-59c8-4f78-bc8e-a2193fe79a5d)
+![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/fb992822-a519-42f2-9c5d-2dd2a5683c06)
 
 ### **Sanctioned Firms by Sanctioning Government**
 
-![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/6b3ae6fa-3dd5-4629-b525-b17c524cc488)
+![Untitled-1](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/7c8bcab7-4e38-47f5-9bb1-727a4ae005b4)
 
 ### **Total Number of Sanctioned Firms in 2014**
 
-![Untitled-1](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/0e8b243c-f9cf-489b-afc9-ad268e574a32)
-
+![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/1a7d826f-3a17-4a2f-af8c-5ba03d36d5ff)
 
 ### **Number of Sanctioned Firms by Type**
 
-![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/5af21550-0de8-43be-8eba-bab0a2d9763d)
+![Untitled-1](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/8278d2f2-323c-4fab-a4ae-e93e9b63c5b0)
+
 
 
 
