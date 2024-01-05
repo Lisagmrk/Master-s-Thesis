@@ -11,6 +11,7 @@ Below are some summary statistics of the of the final dataset.
 
 ### **Sanctioned Firms across Industries**
 
+
 ![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/06a129af-59c8-4f78-bc8e-a2193fe79a5d)
 
 ![image](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/fb992822-a519-42f2-9c5d-2dd2a5683c06)
