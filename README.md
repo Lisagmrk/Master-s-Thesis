@@ -1,4 +1,4 @@
-## US and EU Sanctions on Russia after 2014
+## The Effects of Economic Sanctions on Russia from 2014 to 2021
 
 This code is part of my master's thesis in which I examine the impact of US and EU sanctions on Russia after its annexation of Crimea in 2014. It is a work in progress and will be updated regularly. The raw data is from the US Office of Foreign Assets Control [(OFAC)](https://ofac.treasury.gov/) and the Council of the European Union [(EU Council)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02014D0145-20230915&qid=1703029680787). 
 
