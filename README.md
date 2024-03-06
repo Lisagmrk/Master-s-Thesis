@@ -20,8 +20,6 @@ Below are the findings of this analysis, followed by some summary statistics.
 ![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/93657bbe-863a-4c8d-9a96-1fcb6b0e7139)
 
 
-![Untitled-1](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/d23cf897-1c75-425d-b719-cc9c3d2b598e)
-
 Placebo Tests
 
 ![Untitled](https://github.com/Lisagmrk/Masters-Thesis/assets/64646346/3cb405d8-a8cd-4980-88df-383f3dff735d)
